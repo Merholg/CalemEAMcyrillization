@@ -2,6 +2,7 @@
 
 # Создаем пустой словарь для хранения данных
 data_dict = {}
+data_list = []
 
 # Открываем исходный файл для чтения
 with open("CalemMsg_ru.properties", "r") as input_file:
@@ -24,11 +25,13 @@ with open("CalemMsg_ru.properties", "r") as input_file:
                         # Добавляем ключ и значение в словарь
                         key = strline[:(index)].strip()
                         data_dict[key] = value
-                        outline = "{key}={value};\n"
+                        data_list.append(value)
+                        outline = "{key} = {value}\n"
                         output_file.write(outline.format(key = key, value = value))
             else:
                 output_file.write('\n')
 
-
-# Выводим преобразованный в словарь файл
-# print(data_dict)
+#for key, value in data_dict.items():
+#    print(key, value)
+for value in data_list:
+    print(value)

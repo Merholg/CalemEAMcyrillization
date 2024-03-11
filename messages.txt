@@ -1,0 +1,1266 @@
+User name
+Password
+Login
+Copyright &copy; 2007 CalemEAM Inc. All rights reserved.
+Please enter both User name and Password to log in.
+CalemEAM - Open Source CMMS/EAM
+The only action allowed is login. Action cancelled.
+Loading...
+Language
+The <b>installation</b> directory is not deleted. It is a safety issue. You must have the <b>installation</b> directory deleted before using CalemEAM.
+CalemEAM will log you out when you confirm. Select Cancel to continue use CalemEAM.
+Login failed. Please check your user name/password and try again.
+Your session is no longer valid on server. You will be logged out.
+An error happened in the server. Please contact your system admin.
+Work order
+Asset
+PM
+Inventory
+Purchase
+Admin
+Budget
+Home
+Document
+Schedule
+RCM
+Inspection
+Contact
+Contract
+Vendor
+Project
+Training
+Requisition
+Dashboard
+More
+Close
+Select
+Close
+Close form
+The changes will be lost when the form is closed. Press Yes to close the form.
+Delete data
+The selected data will be permanently deleted. Press Yes to delete the data.
+Save data
+The record has been updated by others. Your changes were not applied. The record is refreshed.
+The record you changed cannot be found in server. It might have been deleted by others.
+Create data
+The data cannot be deleted. It is referenced by {0} ({1}).
+Contacting server...
+The key fields {0} are duplicated. Please correct the fields and try again.
+Native error: {0}
+An unknown error happened in making data changes to the server. Please contact your system admin.
+Server error
+Data cannot be found for the request.
+Form
+Procedure
+Report
+Settings
+New
+Open
+Edit
+Save
+Cancel
+Delete
+Print
+Customize
+Previous
+Next
+Select
+Customize
+Reset
+Search
+Clear search
+Refresh
+Apply
+Apply & save
+Export
+Sign out
+Help
+US dollar
+Canadian dollar
+Mexican peso
+There are errors in the form. Please correct the errors and try again.
+The field value for the lookup is not valid.
+The field value is invalid.
+At
+Weekly
+Every weeks
+Every months
+Every days
+on
+Mon
+Tue
+Wed
+Thur
+Fri
+Sat
+Sun
+Monday
+Tuesday
+Wedesday
+Thursday
+Friday
+Satday
+Sunday
+First
+Second
+Third
+Fouth
+Last
+Start from
+Until
+Start time
+Repeat
+Every
+minutes
+hours
+Every week on {0}
+Every {0} weeks on {1}
+Every {0} months on {1} {2}
+Every {0} days
+from {0}
+until {0}
+from {0} until {1}
+Start at {0}
+Start at {0} till {1}
+every {0} minutes
+every {0} hours
+{0}, {1}
+Form design
+(Error message row)
+(Row)
+(Separator)
+(Cell)
+Row
+Tool bar
+Custom fields
+Caption
+Save to:
+Grid design
+(CalemEAM)
+(Custom system)
+Cannot remove last grid field.
+Done
+Customize
+Form tab
+Form
+(Fixed)
+Job list
+Select search
+My search:
+Shared search:
+(No saved search)
+Save search:
+Save search (field)
+As:
+My search
+Shared by my group
+Shared by everyone
+(No selection)
+The search is not valid. Please correct the errors.
+Id
+Welcome, {0}
+Welcome, {0}. Your local time is {1}.
+Datetime is not valid.
+Checked
+Not checked
+The data cannot be created without a valid parent record. Please create a parent record first.
+Refresh data
+Codes
+Scheduler
+Upgrade
+Main
+Job runs
+Data design
+Table design
+Dropdown design
+My account
+Group design
+Module design
+Modules accessible
+Module design
+Customize table
+Customize dropdown
+Menu node
+Menu item
+Drop for item design
+Default menu item
+Module layout
+Add field
+Delete field
+Change name
+Change type
+Add dropdown
+Edit dropdown
+Delete dropdown
+Field name is not valid. It must consist of letters, digits, underscores and up to 30 characters.
+Field length is required for Varchar type. The length must be from 1 to 4000.
+Field name has been used in this table. Use a different name.
+Delete field
+The custom field and its data will be permanently deleted. Press Yes to delete it.
+Delete dropdown
+The dropdown entry will be permanently deleted. Press Yes to delete it.
+Communication
+Address
+Access rights
+Purchase
+Job
+Last changes
+Retype
+(retype)
+Password and retype are not the same
+Edit label
+Search admin
+No admin
+Group admin
+System admin
+Department
+Manager
+Group
+Parent group
+There are child groups for this group. This group cannot be deleted.
+There are users in this group. This group cannot be deleted.
+This is a built-in group, it cannot be deleted.
+IM
+Yahoo
+Skype
+MSN
+AOL
+Job role
+EAM staff
+EAM - Technician
+EAM - Supervisor
+EAM - Planner
+EAM - Support
+Operations
+Other
+Locale
+Team
+Lead
+Users
+User
+Employee no.
+Login allowed?
+Full name
+Job title
+Supervisor
+Work phone
+Home phone
+Mobile phone
+Work email
+Other email
+IM Id
+IM Id
+Fax
+Company
+Street
+Street 2
+City
+State
+Zip
+Country
+Tasks
+Task
+Note
+Class
+Class path
+Jobs
+Note
+Active
+Seq
+Release time
+Release days
+Time due
+Job run
+Time taken
+Result
+Semaphore
+Time to expire
+User type
+Maintenance staff
+Other Staff
+Contractor
+Customer
+Partner
+Other
+Status
+Active
+Transferred
+Departed
+Status
+Started
+Upgraded
+Failed
+Version
+Version Id
+Note
+Properties
+Upgrade history
+Version Id
+Note
+Prev version Id
+Prev version note
+Prev properties
+Upgrade note
+Logs
+Main
+Downtime
+Meter
+Part
+Depreciation
+Comment
+Contract
+Misc
+Warranty
+Depreciation
+Codes
+Cost
+Reading history
+Add reading
+Service log
+Activity log
+Child asset
+Asset at location
+Asset list
+Codes
+Asset list report
+Select meter
+Child asset
+Asset at location
+Asset
+Asset no.
+Weight
+Weight unit
+Serial no.
+Purchase date
+Original cost
+Warranty start
+Warranty end
+Maintenance labor hrs
+Maintenance labor cost
+Maintenance material cost
+Maintenance cost
+Rollup cost
+Depreciation start
+Depreciation rate
+Depreciation interval
+Parent asset
+Location asset
+Owner user
+Asset photo
+Description
+Asset downtime
+Start time
+End time
+Hours
+Reported by
+Reported at
+Asset meter
+Meter no.
+Reading unit
+Reading
+Time taken
+Rollover type
+Rollover count
+Asset part
+Qty
+Asset depreciation
+Start value
+Depreciation
+End value
+Asset comment
+Meter reading
+Read by
+Is rollover
+Transaction cancelled
+New transaction
+Void time
+Void by
+Manufacturer
+Manufacturer
+Contact name
+Downtime unit cost
+Hourly rate
+Meter type
+Type
+Meter type
+Rollover reading
+Asset type
+Type
+Asset type
+Service log
+New location
+Prev. location
+New Parent
+Prev. Parent
+New owner
+Prev. owner
+Contract
+Asset category
+Equipment
+Building
+System
+Location
+Asset part type
+Major
+Routine
+Asset priority
+Critical
+Production
+Non-production
+Asset status
+In service
+In repair
+Scrapped
+Depreciation type
+Straight line
+Other
+Depreciation time
+Annually
+Quarterly
+Days
+Downtime Type
+Emergency
+Planned maintenance
+Project
+Other
+Downtime cause
+Operation
+Maintenance
+Other
+Meter rollup
+None
+Rollup Change
+Budget
+Edit budget
+Delete budget
+The state of the budget is not closed. It cannot be reopened.
+The budget is closed. You must reopen it to edit.
+Update budget
+The budget is closed. You must reopen it to update.
+This budget title has budget records and cannot be deleted. Please delete budget records first.
+The start and end dates of the budget are not valid. The actual budget cannot be calculated.
+Update actual
+Budget list
+State
+Budget
+Budgeted
+EAM
+Accounting
+Status log
+Reopen
+Status log
+Budget title
+Start date
+End date
+Note
+Start date must be before the End Date.
+Cost code
+Rollup cost
+Parent code
+Cost type
+Employee
+Contractor labor
+Labor
+Internal Material
+Contractor Material
+Material
+Training
+Operations
+Other
+State
+Open
+Reopen
+Closed
+Currency
+Currency
+Contact
+Type
+Type
+Vendor
+Manufacturer
+Partner
+Tenant
+Other
+Main
+Contact
+Misc
+Main
+Misc
+Contact
+Document
+Vendor list
+Contract list
+Vendor
+Address
+Contact
+Comment
+Contact
+Contract
+Comment
+Contact
+Document
+Status
+Active
+Inactive
+Status
+Valid
+Expired
+Cancelled
+Contract type
+SLA
+OEM
+Other
+Dashboard
+Main
+Column
+Daily WO Count by Origination
+Monthly WO Count by Origination
+WO Count by Status
+WO Age by Priority
+less than 1 week
+1 week
+2 weeks
+3 weeks
+4 or more weeks
+Null priority
+View file
+View file
+Uploading file to server...
+Main
+Document
+Document list
+Content
+Doc type
+Type
+Attachment
+Uploaded files
+File
+Access type
+Public
+Application
+Main
+Citation
+Inspection list
+Inspection
+Type
+Inspection contact
+Inspection user
+Citation
+Citation
+Severity
+Ins. type
+OSHA
+EPA
+Other
+Citation severity
+Major
+Minor
+Main
+Stock
+Document
+Transaction
+Vendor
+Reserved
+Audit
+Misc
+Check out
+Return
+Receive
+Physical count
+Move
+Check in
+Create requisition
+Order list
+Create order
+Tools
+Parts
+Reorder
+Codes
+Stock level
+Stock qty is not zero at this location. This record cannot be deleted.
+There are no items at this location, cannot perform a checkout.
+There are no items at this location, cannot perform a stock move transaction.
+Select stock
+Inventory list
+Inventory
+Item no.
+Type
+Last ABC updated
+Avg. unit cost
+Rent rate
+Rent Uom
+Qty in stock
+Qty on order
+Qty reserved
+Qty to order
+Min
+Max
+Reorder point
+Reorder qty
+Order notification
+Description
+Stock
+Location
+Reserved
+Document
+Comment
+Audit
+Vendor
+Vender part no.
+Is primary
+Unit cost
+Unit cost
+Lead time (days)
+Stock location
+Location
+Parent location
+Transaction
+Checkout to id
+Receive from id
+Qty available
+Orig. qty
+Orig. location
+Checkout tran. id
+Rent duration
+Tran. total
+Tran. time
+Tran. user
+Store user
+Voided
+Authorized by
+Voided by
+Time voided
+Void note
+New tran. id
+Tran. worksheet
+Inventory type
+Unit of measure
+Uom
+Uom conversion
+Uom
+To Uom
+Order type
+No reorder
+Min max
+Reorder point
+On demand
+Category
+Part
+Tool
+Notification
+None
+Email
+SMS
+Order creation
+Manual
+Automatic
+Valuation type
+Average cost
+FIFO
+LIFO
+Checkout to
+Work order
+User
+Asset
+Project
+Transaction type
+Checkout
+Return
+Receiving
+Physical count
+Move
+Checkin
+Receive from
+Purchase order
+Credit card purchase
+Other
+Stock type
+Stock
+None-stock
+Other
+ABC class
+A
+B
+C
+Checkout
+Checkout to
+Stock qty
+Checkout user
+Return
+Return from
+Return user
+Return part
+Checkout tran.
+Qty to return
+Qty checked out
+Checkout note
+Return tool
+Checkout time
+Return time
+Rent cost
+Rent hours
+Physical count
+New qty
+User counted
+Stock move
+Qty to move
+Move to
+User moved
+Checkin
+Qty
+Receive from
+Receive info
+Receipt no.
+Qty to receive
+Receive to stock
+Qty to receive
+Qty remaining
+Checkout qty
+Qty to checkout
+Meter schedule
+PM season
+PM list
+PM lookup
+Main
+Asset
+Labor
+Material
+Step
+Downtime
+Audit
+Dependency
+Document
+Misc
+PM
+PM no.
+Duration (hours)
+Release schedule
+Labor hours
+Downtime hours
+Description
+Labor
+Crew size
+PM tool
+Qty
+PM part
+Downtime
+PM step
+PM safety
+PM document
+PM audit
+User audited
+Comment
+PM asset
+Last released
+Last closed
+Next due date
+Release count
+PM meter
+Release by meter
+Reading released
+Reading interval
+Copy to WO
+PM season
+PM dependency
+Child PM no.
+Release type
+Fixed
+Floating
+Other
+Schedule type
+By time
+By meter
+By time and meter
+Other
+Dependency type
+Release before
+Release after
+Do not release
+Dependency scope
+Same asset
+All assets
+Status
+Active
+Inactive
+Main
+Detail
+Sub project
+Workorder
+Codes
+Cost
+Project list
+Project
+Project
+Parent project
+% complete
+Schedule end
+Actual end
+Actual hours
+Comment
+Project type
+Type
+Priority
+P1
+P2
+P3
+P4
+P5
+Status
+Active
+Delayed
+Cancelled
+Complete
+Open
+Vendor
+Buyer
+Cost
+Main
+Items
+Reopen
+Status log
+PO list
+My POs
+My POs
+Tax code list
+Tax code
+Vendor
+Buyer
+Edit PO
+Delete PO
+The state of the PO is not closed. It cannot be reopened.
+The PO is closed. You must reopen it to edit.
+The PO is submitted so it cannot be deleted.
+The PO is submitted so it cannot be voided.
+The PO status change is not allowed.
+Your PO Approval level is not sufficient to make this change.
+Add item
+Remove item
+Tax code
+Tax rate
+Tax rate
+Address
+Type
+Type
+Purchase order
+PO no.
+Buyer
+Buyer name
+Phone
+PO date
+Vendor addr.
+Vendor contact
+Phone
+Shipping addr.
+Billing addr.
+Item total
+Tax
+Total
+Comment
+Next assigned to
+Assignment note
+Items
+Line
+Item
+Qty received
+Status log
+Status
+New
+Pre-approved
+Approved
+Voided
+Submitted
+Acked
+State
+Open
+Reopen
+Closed
+PO approval
+No approval
+Level 1
+Level 2
+Level 3
+Level 4
+Unlimited
+PO total
+Type
+Billing
+Shipping
+Both
+Shipping type
+Ground
+Express
+Shipping term
+FOB Origin
+FOB Destination
+Payment term
+Net 30
+Cash before shipping
+Failure list
+View part
+Main
+Action
+Consequence
+Failure
+Failure
+Evident
+Description
+Action
+Action
+Cause
+Description
+Part
+Consequence
+Consequence
+Description
+Function
+Function
+Description
+RCM template
+RCM template
+Type
+Safety
+Environmental
+Operational
+Economical
+Cause type
+Mechanical
+Electrical
+Other
+PM policy
+Run to fail
+PM
+Failure
+Failure
+Action
+Action
+Main
+Items
+Reopen
+Status log
+Requisition list
+Codes
+Cost
+The state of requisition is not closed. It cannot be reopened.
+The requisition is closed. You must reopen it to edit.
+This item is on PO. It cannot be deleted.
+This requisition is on PO so it cannot be voided.
+The item is on PO so the change is not allowed.
+The requisition status change is not allowed.
+Your Requisition Approval level is not sufficient to make this change.
+Requisition
+Edit requisition
+Req no.
+User requested
+Time requested
+Req total
+Due date
+Next assigned to
+Assignment note
+Description
+Status log
+From state
+To state
+Req items
+Req approval
+No approval
+Level 1
+Level 2
+Level 3
+Level 4
+Unlimited
+Req total
+Priority
+Emergency
+Safety
+Operation
+Other
+Status
+New
+Open
+Pre-approved
+Approved
+Voided
+State
+Open
+Reopen
+Closed
+Source
+Auto-reorder
+Workorder
+Other
+Req on PO
+None
+Partially on PO
+All on PO
+The schedule range is over the maximum of {0} days. Use a range less than the maximum.
+Schedule By
+Schedule by user
+Schedule by team
+Shift
+Total hours
+Hours to schedule
+Other hours
+Shift 1 (8:00 AM - 5:00 PM)
+Shift 2 (6:00 PM - 3:00 AM)
+Shutdown schedule
+User schedule
+Date
+Hours to schedule
+Scheduled
+Schedule by user
+Schedule by team
+Main
+User
+Training list
+Codes
+Training
+Instructor user
+Instructor contact
+Description
+Training user
+Status
+Certificate
+Certificate
+Days valid
+Description
+Course type
+Type
+Course
+Course
+Description
+Status
+Complete
+Incomplete
+Failed
+This record has usage information. It cannot be deleted.
+Workorder edit
+The workorder is closed. You must reopen the workorder to edit it.
+The workorder is not closed. It cannot be reopened.
+Main
+Instruction
+Steps
+Labor
+Part
+Tool
+Downtime
+Meter
+Misc
+Comments
+Document
+Status
+Failure
+Origination
+Assignment
+Schedule
+Completion
+Acceptance
+Codes
+Cost
+Downtime
+Downtime
+Work request
+New
+New request
+New work order
+New from PM
+My workorders
+Workorder list
+Open
+Reopen workorder
+Status log
+My assignment
+My request
+My team assignment
+New
+Add part
+Return part
+New
+Add tool
+Return tool
+Checkout tool
+New
+Add reading
+View readings
+Work category
+Emergency (breakdown)
+Corrective
+Predictive
+Preventive
+Detective
+Work priority
+Safety Hazards
+Safety matters
+Production downtime
+Normal maintenance
+Project
+Resolution
+Open
+Resolved
+Do not fix
+Delayed
+Duplicate
+Status
+New
+Open
+Scheduled
+Wait for material
+In progress
+Completed
+Reopen
+Accepted
+Closed
+Origination
+Trouble call
+PM
+Rework
+Other
+Time type
+Work
+Travel
+Wait for parts
+Other
+Downtime
+Planned
+Emergency
+Site shutdown
+Status
+Started
+Failed
+Completed
+W.O. generation log
+Generated
+Generated to
+Status
+Start time
+End time
+User name
+Select PM
+PM for the asset
+Any PM
+Craft
+Craft
+Rate
+O.T. factor
+Work order
+Wo no.
+Description
+Asset note
+Contact requested
+User requested
+Time requested
+Time needed
+Team assigned
+Assigned to
+Assigned by
+Time assigned
+Rework wo no.
+Parent wo no.
+Duplicate wo no.
+Planned start
+Scheduled start
+Shift to start
+Time started
+Shift started
+Planned finish
+Scheduled finish
+Shift to finish
+Time finished
+Shift finished
+Finished by
+Finish note
+Accepted by
+Time accepted
+Accept note
+Closed by
+Time closed
+Hours planned
+Hours scheduled
+Actual hours
+Labor
+Material
+Total
+Downtime planned
+Actual downtime
+Modified by
+Created by
+Last modified
+Time created
+Work steps
+Seq #
+Completed
+Completed by
+Time completed
+Description
+Safety notes
+Followed
+Followed by
+Description
+Documents
+Attachments
+File
+Comments
+Comment
+Status history
+Labor
+Staff
+Hours
+O.T. hrs
+Line cost
+Tool
+Tool no.
+Checked out
+Returned
+Part
+Part no.
+Qty used
+Meter
+Reading
+Planned labor
+Planned tool
+Planned Part
+Planned Downtime
+Scheduled labor
+Status log
+To status
+From status
+Changed by
+New from PM
+Part checkout
+Part return
+Group modules
+Modules
+Module
+Forms
+Form
+Table
+Table name
+Table list
+Dropdown list
+Table field
+Field name
+Type
+Label
+Length
+Required
+Lookup
+Field type
+Varchar (length required)
+Text (long text field)
+Guid (Varchar (36))
+Boolean
+Tinyint
+Integer
+Double
+Date
+Datetime
+System currency
+Other currency
+Dropdown
+Dropdown
+Label
+Fixed
+Label
+Label Id
+Customize
+Recycle bin
+Description
